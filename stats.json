@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "tree": {
+    "name": "root",
+    "children": [
+      {
+        "name": "index.min.js",
+        "children": [
+          {
+            "name": "src/index.ts",
+            "uid": "45aaa5ef-1"
+          }
+        ]
+      }
+    ],
+    "isRoot": true
+  },
+  "nodeParts": {
+    "45aaa5ef-1": {
+      "renderedLength": 1386,
+      "gzipLength": 0,
+      "brotliLength": 0,
+      "metaUid": "45aaa5ef-0"
+    }
+  },
+  "nodeMetas": {
+    "45aaa5ef-0": {
+      "id": "/src/index.ts",
+      "moduleParts": {
+        "index.min.js": "45aaa5ef-1"
+      },
+      "imported": [],
+      "importedBy": [],
+      "isEntry": true
+    }
+  },
+  "env": {
+    "rollup": "2.79.2"
+  },
+  "options": {
+    "gzip": false,
+    "brotli": false,
+    "sourcemap": false
+  }
+}

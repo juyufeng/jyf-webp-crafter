@@ -1,6 +1,6 @@
 {
   "name": "jyf-webp-crafter",
-  "version": "1.0.4",
+  "version": "1.0.0",
   "description": "JyfWebpCrafter is an efficient tool that easily converts images to WebP format, enhancing web page loading speed.",
   "repository": "https://github.com/juyufeng/jyf-webp-crafter",
   "license": "MIT",
